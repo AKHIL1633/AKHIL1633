@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 it's Akhil 
+Machine Learning Enthusiast | Python Developer | Front-end Web Developer
 
-<!--
-**AKHIL1633/AKHIL1633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To utilize my knowledge and ideas in the field of machine learning ,web development towards the smooth functioning of organization,I realised that,satisfaction is a book of achievement,which holds the learning experience  records of doing,trying,twinddling,getting failed ,Trying again and finally succeeding in the project
 
-Here are some ideas to get you started:
+##My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil1633)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Akhil1633)
+
+
+🔭 Currently working on innovative full-stack projects
+🌱 Continuously learning and exploring new technologies in ML and AI
+👯 Open to collaborations on cutting-edge tech projects
+📫 Reach me at: akhil.kartik371@gmail.com
+😄 Happy Learning
