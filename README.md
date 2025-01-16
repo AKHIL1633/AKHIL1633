@@ -10,8 +10,9 @@ To utilize my knowledge and ideas in the field of machine learning ,web developm
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Akhil1633)
 
 
-🔭 Currently working on innovative full-stack projects
-🌱 Continuously learning and exploring new technologies in ML and AI
-👯 Open to collaborations on cutting-edge tech projects
-📫 Reach me at: akhil.kartik371@gmail.com
-😄 Happy Learning
+- 🔭 Currently working on innovative full-stack projects  
+- 🌱 Continuously learning and exploring new technologies in ML and AI  
+- 👯 Open to collaborations on cutting-edge tech projects  
+- 📫 Reach me at: [akhil.kartik371@gmail.com](mailto:akhil.kartik371@gmail.com)  
+- 😄 Happy Learning
+
