@@ -5,10 +5,13 @@
 
 **M.Tech CS @ IIIT Naya Raipur · Ex-Siemens Technology · Ex-TCS**
 
+<sub>Turning research into shipped products — multi-agent LLM systems, full-stack apps, and applied deep learning.</sub>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p-akhil-a68421177)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhil.kartik371@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKHIL1633)
 [![Portfolio](https://img.shields.io/badge/Live_Demo-GrowEasy-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://groweasy-csv-importer-web-ten.vercel.app)
+[![Open to Work](https://img.shields.io/badge/Open_to-SDE_%2F_AI_Engineer_roles-ff6b6b?style=for-the-badge)](mailto:akhil.kartik371@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKHIL1633&style=for-the-badge&color=1a56db)
 
@@ -85,6 +88,7 @@ const akhil = {
 
 | 🚀 Project | 📝 Description | ⚙️ Stack | 🔗 Links |
 |:---|:---|:---|:---|
+| **Homeward Paws** | Story-led pet-adoption platform — full MERN rewrite with JWT cookie auth, role/ownership guards, image uploads & a GSAP scroll narrative | React 19 · Vite · Express · MongoDB · Docker | [📁 Repo](https://github.com/AKHIL1633/homeward-paws) |
 | **PulseDesk** | AI ticket-triage agent — mobile app + web dashboard + API, with an LLM classifying and drafting responses under human review | Express · Next.js · React Native (Expo) · Gemini · Zod | [📁 Repo](https://github.com/AKHIL1633/pulsedesk) |
 | **ZeroxAI Planner** | Multi-LLM vision platform (~14K LOC) with two-pass extraction, LLM-as-corrector, and Domain-Driven Design | Python · FastAPI · React 19 · Gemini · GPT-4o · Groq | [📁 Repo](https://github.com/AKHIL1633/ZeroxAI-Planner) |
 | **GrowEasy CSV Importer** | Live AI app mapping any CSV layout onto a fixed CRM schema, with production-grade retry & validation | Next.js · Express · TypeScript · Gemini | [🌐 Live](https://groweasy-csv-importer-web-ten.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/groweasy-csv-importer) |
@@ -122,11 +126,21 @@ const akhil = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AKHIL1633&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHIL1633&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=AKHIL1633&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=AKHIL1633&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL1633&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
@@ -140,6 +154,16 @@ const akhil = {
 <div align="center">
 
 [![Akhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKHIL1633&theme=tokyo-night&hide_border=true)](https://github.com/AKHIL1633)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AKHIL1633/AKHIL1633/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
