@@ -120,19 +120,6 @@ const akhil = {
 | **TaskFlow** | Kanban board with drag-and-drop, REST API and CI/CD | Next.js 14 · TypeScript · Jest · GitHub Actions | [🌐 Live](https://taskflow-lake-nu.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/taskflow) |
 | **SpendWise** | Finance tracker with auth, real database and interactive charts | Next.js · NextAuth · Prisma · PostgreSQL | [🌐 Live](https://spendwise-psi-lyart.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/spendwise) |
 
----|:---|:---|:---|
-| **Homeward Paws** | Story-led pet-adoption platform — full MERN rewrite with JWT cookie auth, role/ownership guards, image uploads & a GSAP scroll narrative | React 19 · Vite · Express · MongoDB · Docker | [📁 Repo](https://github.com/AKHIL1633/homeward-paws) |
-| **PulseDesk** | AI ticket-triage agent — mobile app + web dashboard + API, with an LLM classifying and drafting responses under human review | Express · Next.js · React Native (Expo) · Gemini · Zod | [📁 Repo](https://github.com/AKHIL1633/pulsedesk) |
-| **ZeroxAI Planner** | Multi-LLM vision platform (~14K LOC) with two-pass extraction, LLM-as-corrector, and Domain-Driven Design | Python · FastAPI · React 19 · Gemini · GPT-4o · Groq | [📁 Repo](https://github.com/AKHIL1633/ZeroxAI-Planner) |
-| **GrowEasy CSV Importer** | Live AI app mapping any CSV layout onto a fixed CRM schema, with production-grade retry & validation | Next.js · Express · TypeScript · Gemini | [🌐 Live](https://groweasy-csv-importer-web-ten.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/groweasy-csv-importer) |
-| **Automatic License Plate Detection** | Custom-trained YOLOv8 + OCR pipeline with live WebRTC video detection | Python · YOLOv8 · EasyOCR · Streamlit | [📁 Repo](https://github.com/AKHIL1633/Automatic_License_Plate_Detection) |
-| **ResumeIQ** | Full-stack resume screening SaaS with JWT auth, weighted scoring engine & 36 passing tests | FastAPI · React · SQLAlchemy · Docker | [📁 Repo](https://github.com/AKHIL1633/resume-screener) |
-| **TaskFlow** | Full-stack Kanban board with drag-and-drop, REST API & CI/CD | Next.js 14 · TypeScript · Jest · GitHub Actions | [🌐 Live](https://taskflow-lake-nu.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/taskflow) |
-| **Swiggy Clone** | React + Redux restaurant ordering UI backed by a custom Express proxy for live data | React 18 · Redux Toolkit · Express | [📁 Repo](https://github.com/AKHIL1633/swiggy-clone) |
-| **SpendWise** | Finance tracker with JWT auth, real DB & interactive charts | Next.js · NextAuth · Prisma · PostgreSQL · Recharts | [📁 Repo](https://github.com/AKHIL1633/spendwise) |
-
-</div>
-
 ---
 
 ## 📚 Publications
