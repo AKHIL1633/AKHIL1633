@@ -84,10 +84,43 @@ const akhil = {
 
 ## 📌 Featured Projects
 
-<div align="center">
+> Browse by category: [🤖 AI products](https://github.com/AKHIL1633?tab=repositories&q=topic%3Aai-products) · [🧠 AI / ML research](https://github.com/AKHIL1633?tab=repositories&q=topic%3Aai-ml) · [💻 Full-stack & backend](https://github.com/AKHIL1633?tab=repositories&q=topic%3Afull-stack)
 
-| 🚀 Project | 📝 Description | ⚙️ Stack | 🔗 Links |
+### 🤖 AI Products
+*Full-stack applications with an LLM at the core*
+
+| Project | What it does | Stack | Links |
 |:---|:---|:---|:---|
+| **GitHub PR AI Reviewer** | Four LangGraph agents (static analysis, security, style, architecture) review every PR in parallel and post inline comments | Python · LangGraph · Celery · AWS EKS · Terraform · LangFuse | [📁 Repo](https://github.com/AKHIL1633/github-pr-ai-reviewer) |
+| **PulseDesk** | AI ticket triage where an LLM classifies and drafts replies, and a human approves before anything is sent: web dashboard, mobile app and API | Express · Next.js · React Native (Expo) · Prisma · Gemini | [📁 Repo](https://github.com/AKHIL1633/pulsedesk) |
+| **GrowEasy CSV Importer** | Maps any CSV layout onto a fixed CRM schema with an LLM, plus validation and retries | Next.js · Express · TypeScript · Gemini | [🌐 Live](https://groweasy-csv-importer-web-ten.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/groweasy-csv-importer) |
+| **AI Complaint Management** | Chat copilot that fills and edits pharma complaint forms from conversation | Python · React · LLM | [🌐 Live](https://ai-complaint-management-system-hazel.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/ai-complaint-management-system) |
+| **ZeroxAI Planner** | Multi-LLM document extraction (~14K LOC) with two-pass extraction and confidence scoring | Python · FastAPI · React 19 · Gemini · GPT-4o · Groq | 🔒 Private, demo on request |
+
+### 🧠 AI / ML Research & APIs
+*Models, retrieval systems and published research*
+
+| Project | What it does | Stack | Links |
+|:---|:---|:---|:---|
+| **AI Text Detection** | BERT + CNN + BiLSTM + XGBoost ensemble, 98.83% accuracy, served via FastAPI *(IEEE INDICON 2025)* | PyTorch · Transformers · FastAPI | [📁 Repo](https://github.com/AKHIL1633/Ai-text-detection) |
+| **NeoRAG** | Knowledge graph + vector search, with an agent that checks and retries its own answers | FastAPI · Neo4j · Qdrant · LangGraph · Llama 3.2 | [📁 Repo](https://github.com/AKHIL1633/neorag) |
+| **ResumeIQ** | Resume screening and candidate ranking API with a weighted scoring engine and 36 tests | FastAPI · SQLAlchemy · Alembic · Docker | [📁 Repo](https://github.com/AKHIL1633/resume-screener) |
+| **License Plate Detection** | Custom-trained YOLOv8 + OCR pipeline with live WebRTC video | Python · YOLOv8 · EasyOCR · Streamlit | [📁 Repo](https://github.com/AKHIL1633/Automatic_License_Plate_Detection) |
+| **PPG Blood Pressure Prediction** | Predicts systolic, diastolic and arterial blood pressure from PPG signals | Python · scikit-learn | [📁 Repo](https://github.com/AKHIL1633/PPG-data-for-Blood-Pressure-Prediction-using-ML-approaches) |
+
+### 💻 Full-Stack & Backend
+*Production-style web apps and services*
+
+| Project | What it does | Stack | Links |
+|:---|:---|:---|:---|
+| **Roost** | Coliving and hostel booking platform with a large test suite and CI | TypeScript · React | [📁 Repo](https://github.com/AKHIL1633/roost) |
+| **Homeward Paws** | Story-led pet adoption platform with JWT cookie auth, role/ownership guards and a GSAP scroll narrative | React 19 · Vite · Express · MongoDB · Docker | [📁 Repo](https://github.com/AKHIL1633/homeward-paws) |
+| **JobBoard Pro** | Recruitment SaaS with multiple user roles, application tracking and async notifications | Django REST · React · PostgreSQL · Celery · Redis | [📁 Repo](https://github.com/AKHIL1633/jobboard-pro) |
+| **Order Processing Platform** | Async REST API with a queue-based worker for stock, payment and notifications | Python · Celery · Redis · Docker | [📁 Repo](https://github.com/AKHIL1633/order-processing-platform) |
+| **TaskFlow** | Kanban board with drag-and-drop, REST API and CI/CD | Next.js 14 · TypeScript · Jest · GitHub Actions | [🌐 Live](https://taskflow-lake-nu.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/taskflow) |
+| **SpendWise** | Finance tracker with auth, real database and interactive charts | Next.js · NextAuth · Prisma · PostgreSQL | [🌐 Live](https://spendwise-psi-lyart.vercel.app) · [📁 Repo](https://github.com/AKHIL1633/spendwise) |
+
+---|:---|:---|:---|
 | **Homeward Paws** | Story-led pet-adoption platform — full MERN rewrite with JWT cookie auth, role/ownership guards, image uploads & a GSAP scroll narrative | React 19 · Vite · Express · MongoDB · Docker | [📁 Repo](https://github.com/AKHIL1633/homeward-paws) |
 | **PulseDesk** | AI ticket-triage agent — mobile app + web dashboard + API, with an LLM classifying and drafting responses under human review | Express · Next.js · React Native (Expo) · Gemini · Zod | [📁 Repo](https://github.com/AKHIL1633/pulsedesk) |
 | **ZeroxAI Planner** | Multi-LLM vision platform (~14K LOC) with two-pass extraction, LLM-as-corrector, and Domain-Driven Design | Python · FastAPI · React 19 · Gemini · GPT-4o · Groq | [📁 Repo](https://github.com/AKHIL1633/ZeroxAI-Planner) |
